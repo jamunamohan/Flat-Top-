@@ -1,17 +1,20 @@
 # Flat-Top
-# Aim
-Write a Python program for the Construction and Reconctruction of Flat-Top Sampleing.
-# Tools required
-# Program
+# Aim:
+
+Write a Python program for the Construction and Reconctruction of Flat-Top Sampling.
+
+# Tools required:
+
+# Program:
 ```
 Attach the program
 ```
-# Output Waveform
+# Output Waveform:
 ```
 Attach the output waveform
 ```
-# Results
+# Results:
 ```
 Attach the output waveform
 ```
-# Hardware experiment output waveform.
+# Hardware experiment output waveform:
