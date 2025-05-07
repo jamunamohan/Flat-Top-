@@ -5,6 +5,8 @@ Write a Python program for the Construction and Reconctruction of Flat-Top Sampl
 
 # Tools required:
 
+Python IDE with Numpy and Scipy.
+
 # Program:
 ```
 import numpy as np
@@ -86,4 +88,6 @@ plt.show()
 ![WhatsApp Image 2025-05-07 at 19 54 25_d62a8965](https://github.com/user-attachments/assets/5c928455-71d1-4544-936c-d13188b3a0a2)
 
 # Results:
+
+Flat Top Sampling was successfully simulated using a pulse train to sample a continuous-time message signal. The sampled waveform retained the amplitude of the original signal at discrete intervals with flat tops. The output waveform confirms accurate flat-top representation of the message signal samples.
 
